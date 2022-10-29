@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SACnet", "SACnet\SACnet.csproj", "{F9338F79-47A6-4D5A-BA2F-DF95765CF37F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderService", "Loader\LoaderService.csproj", "{1D267637-524B-4301-B918-BFB3BD6F2EEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLoader", "Loader\ServiceLoader.csproj", "{1D267637-524B-4301-B918-BFB3BD6F2EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5C8ECD4F-5F26-4BF1-86D4-D17D259533E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1D267637-524B-4301-B918-BFB3BD6F2EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D267637-524B-4301-B918-BFB3BD6F2EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D267637-524B-4301-B918-BFB3BD6F2EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8ECD4F-5F26-4BF1-86D4-D17D259533E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8ECD4F-5F26-4BF1-86D4-D17D259533E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8ECD4F-5F26-4BF1-86D4-D17D259533E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8ECD4F-5F26-4BF1-86D4-D17D259533E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

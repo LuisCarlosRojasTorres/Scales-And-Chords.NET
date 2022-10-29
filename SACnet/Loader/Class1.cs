@@ -1,4 +1,4 @@
-﻿namespace Loader
+﻿namespace LoaderService
 {
     public class Class1
     {

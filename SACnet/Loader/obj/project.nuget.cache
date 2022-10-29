@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vbw0k3m3j/qVqvEY5duRfndbHcO4RBWjQW5oITZ6kPLjDc3KPs4xnFlMrzDwl4uVLxf4C9GogWUGqVBPbMeigw==",
+  "dgSpecHash": "Q+rVOXF5UFGjUaXOR7t90yL1/VdGd+7IHobm9jts4ms8P6tjGHBH92TfnyBpyXpkCHNg7+jsK6mlKQt8J59tYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\Loader\\LoaderService.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\Loader\\ServiceLoader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
