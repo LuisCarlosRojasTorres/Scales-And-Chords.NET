@@ -1,9 +1,21 @@
 {
   "version": "1.0.0",
-  "scales": {
-    "Major": [ 2, 2, 1, 2, 2, 2, 1 ],
-    "Minor": [ 2, 1, 2, 2, 1, 2, 2 ],
-    "Major Pentatonic": [ 2, 2, 3, 2 ],
-    "Minor Pentatonic": [ 3, 2, 2, 3 ]
-  }
+  "scales": [
+    {
+      "name": "Major",
+      "steps": [ 2, 2, 1, 2, 2, 2, 1 ]
+    },
+    {
+      "name": "Minor",
+      "steps": [ 2, 1, 2, 2, 1, 2, 2 ]
+    },
+    {
+      "name": "Major Pentatonic",
+      "steps": [ 2, 2, 3, 2 ]
+    },
+    {
+      "name": "Minor Pentatonic",
+      "steps": [ 3, 2, 2, 3 ]
+    }
+  ]
 }
