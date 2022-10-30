@@ -1,14 +1,50 @@
 {
-    "version":"1.0.0",
-    "chords":{
-        "Fifth":{"tag":"5","steps":[0,7]},
-        "Major":{"tag":"","steps":[0,4,7]},
-        "Minor":{"tag":"m","steps":[0,3,7]},
-        "Major Seventh":{"tag":"M7","steps":[0,4,7,11]},
-        "Minor Seventh":{"tag":"m7","steps":[0,3,7,11]},
-        "Seventh":{"tag":"7","steps":[0,4,7,10]},
-        "Major Ninth":{"tag":"M9","steps":[0,2,4,7,11]},
-        "Minor Ninth":{"tag":"m9","steps":[0,2,3,7,11]},
-        "Ninth":{"tag":"9","steps":[0,2,4,7,10]}
+  "version": "1.0.0"
+  "chords": [
+    {
+      "name": "Fifth",
+      "tag": "5",
+      "notes": [ 0, 7 ]
+    },
+    {
+      "name": "Major",
+      "tag": "",
+      "notes": [ 0, 4, 7 ]
+    },
+    {
+      "name": "Minor",
+      "tag": "m",
+      "notes": [ 0, 3, 7 ]
+    },
+    {
+      "name": "Major Seventh",
+      "tag": "M7",
+      "notes": [ 0, 4, 7, 11 ]
+    },
+    {
+      "name": "Minor Seventh",
+      "tag": "m7",
+      "notes": [ 0, 3, 7, 11 ]
+    },
+    {
+      "name": "Seventh",
+      "tag": "7",
+      "notes": [ 0, 4, 7, 10 ]
+    },
+    {
+      "name": "Major Ninth",
+      "tag": "M9",
+      "notes": [ 0, 2, 4, 7, 11 ]
+    },
+    {
+      "name": "Minor Ninth",
+      "tag": "m9",
+      "notes": [ 0, 2, 3, 7, 11 ]
+    },
+    {
+      "name": "Ninth",
+      "tag": "9",
+      "notes": [ 0, 2, 4, 7, 10 ]
     }
+  ]
 }
