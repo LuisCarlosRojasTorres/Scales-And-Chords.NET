@@ -8,5 +8,7 @@ namespace Domain
 {
     public class Chord
     {
+        
+
     }
 }
