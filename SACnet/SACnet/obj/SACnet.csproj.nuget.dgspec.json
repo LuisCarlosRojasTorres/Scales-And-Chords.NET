@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj": {}
+    "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj": {
+    "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj",
+        "projectUniqueName": "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj",
         "projectName": "SACnet",
-        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj",
-        "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\SACnet\\obj\\",
+        "projectPath": "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\SACnet\\SACnet.csproj",
+        "packagesPath": "C:\\Users\\redto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\SACnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\redto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

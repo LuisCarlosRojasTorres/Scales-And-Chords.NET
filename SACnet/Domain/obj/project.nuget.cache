@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nPjVyXQzLYuQhTyUwzSZdzQu/U4oGPAP34lULnRayJ1ha7IotQ+x31zdcVCnoRyFG2Gdy1rUYehe4sDBSp/FIw==",
+  "dgSpecHash": "pOH9o62KmdTVQntX00oasC7YaayPYLvPGOw7qKQOVMdC9Ohe5e+UkEERgn0buq3VjTWvMFduLbwylpCCYFCy2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\repositories\\ASPNETCore\\Core6\\Scales-And-Chords.NET\\SACnet\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\redto\\OneDrive\\Documentos\\repositories\\Scales-And-Chords.NET\\SACnet\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
