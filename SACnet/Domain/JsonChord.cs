@@ -10,6 +10,6 @@ namespace Domain
     {
         public string? Name { get; set; }
         public string? Tag { get; set; }
-        public List<int> notes { get; set; } = new List<int>();        
+        public List<int> Notes { get; set; } = new List<int>();        
     }
 }

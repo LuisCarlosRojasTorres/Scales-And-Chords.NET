@@ -8,7 +8,8 @@ namespace Domain
 {
     public class Chord
     {
-        
+        public string? Name { get; set; }
+        public List<string> ListOfNotes { get; set; }
 
     }
 }

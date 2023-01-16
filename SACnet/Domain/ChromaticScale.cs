@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    internal class ChromaticScale
+    public class ChromaticScale
     {
         private List<string> chromaticBase = new List<string>{ "C", "C#", "D", "C#", "E", "F", "F#", "G", "G#", "A", "A#", "B" };
 
