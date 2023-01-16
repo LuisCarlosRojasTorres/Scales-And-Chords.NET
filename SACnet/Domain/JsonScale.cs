@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class JsonChord
+    public class JsonScale
     {
         public string? Name { get; set; }
-        public string? Tag { get; set; }
-        public List<int> notes { get; set; } = new List<int>();        
+        public List<int> Steps { get; set; } = new List<int>();
     }
 }
